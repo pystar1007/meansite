@@ -8,8 +8,8 @@
 #baseurl: "mean"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://linnovate.github.io/mean"
-baseurl: "/mean"
+url: "http://linnovate.github.io/meansite"
+baseurl: "/meansite"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
